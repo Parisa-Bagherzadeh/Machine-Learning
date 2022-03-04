@@ -18,6 +18,8 @@
       <td>0.91</td>
     </tr>
   </table>
+  
+  <img src='https://github.com/Parisa-Bagherzadeh/Machine-Learning/blob/main/Assignment40/charts/chart.png' >
 
 
 
