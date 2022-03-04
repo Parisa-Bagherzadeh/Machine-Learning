@@ -14,3 +14,8 @@
       <td>3.02</td>
    </tr>
 </table>
+
+<strong> loss chart from wandbi.ai </strong>
+
+<img src='https://github.com/Parisa-Bagherzadeh/Machine-Learning/blob/main/Assignment41/charts/loss.png' width='400'>
+
