@@ -1,7 +1,9 @@
-<strong>Deaths and cases of corona virus in Iran</strong>
-<img src='' >
+*  <strong>Deaths and cases of corona virus in Iran</strong>
 
-<strong>KNN algorithm  <strong>
- Male Female Detection By Height and Weight using KNN algorithm
+<img src='https://github.com/Parisa-Bagherzadeh/Machine-Learning/blob/main/Assignment34/charts/corona.png' >
 
- <img src=''>
+* <strong>KNN algorithm  <strong>
+ 
+   Male Female Detection By Height and Weight using KNN algorithm
+
+ <img src='https://github.com/Parisa-Bagherzadeh/Machine-Learning/blob/main/Assignment34/charts/output.png'>
