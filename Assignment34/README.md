@@ -2,7 +2,7 @@
 
 <img src='https://github.com/Parisa-Bagherzadeh/Machine-Learning/blob/main/Assignment34/charts/corona.png' >
 
-* <strong>KNN algorithm  <strong>
+* <strong>KNN algorithm  <strong></br>
  
    Male Female Detection By Height and Weight using KNN algorithm
 
