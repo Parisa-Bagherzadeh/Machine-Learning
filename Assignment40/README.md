@@ -1,7 +1,7 @@
 # Assignment40
 
   Implementing Titanic problem with different maching learning algorithms</br>
-  to predict the survival and compare the accuacy  
+  to predict the survival and comparing the accuacy  
 
 
   <table>
