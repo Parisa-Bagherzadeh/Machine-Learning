@@ -1,4 +1,4 @@
-
+ # Compare different machine learning algorithm for Titanic problem
 
   Implementing Titanic problem with different maching learning algorithms</br>
   to predict the survival and comparing the accuacy  
